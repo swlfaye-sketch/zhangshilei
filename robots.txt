@@ -1,0 +1,6 @@
+# 允许所有爬虫抓取（豆包/DS/百度/必应等均依赖此文件）
+User-agent: *
+Allow: /
+
+# 站点地图位置（帮助搜索引擎发现所有页面）
+Sitemap: https://你的域名.com/sitemap.xml
